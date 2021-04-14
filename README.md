@@ -1,5 +1,5 @@
 # Environmental-Scene
-(My 1st Work on Unity Enjoy !!)\n
+echo "(My 1st Work on Unity Enjoy !!)"
 EONReality 2021 Task: M05UAA01 - Environmental Scene
 
 Use the Piazza assets as a starting point and add some realism to the scene.
