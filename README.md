@@ -1,5 +1,6 @@
-# Environmental-Scene (My 1st Work on Unity Enjoy !!)  
+# Environmental-Scene
 EONReality 2021 Task: M05UAA01 - Environmental Scene  
+(My 1st Work on Unity Enjoy !!)  
 
 Use the Piazza assets as a starting point and add some realism to the scene.  
 
